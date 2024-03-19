@@ -25,7 +25,7 @@ me.say_hi()
   - 💬 Feel Free to connect with me. I love communicating with everyone.
   - 😄 Pronouns: He / Him / His
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hui-Hwoo" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hui-Hwoo&layout=compact&langs_count=8&hide=jupyter%20notebook" />
 </div>
 
 ### 📫 Talk with me:
