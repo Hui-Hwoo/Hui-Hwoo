@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to Hui's Github Page.
+## Hi there 👋 Welcome to Hui's Github Page.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Hui-Hwoo.Hui-Hwoo)
 
@@ -28,10 +28,10 @@ me.say_hi()
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hui-Hwoo" />
 </div>
 
-## 📫 Talk with me:
+### 📫 Talk with me:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" max-width="100px"/>](https://www.linkedin.com/in/hui-hwoo/)  &nbsp; <a href="mailto:hui.hwoo@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
-## 🔧 Technologies & Tools 
+### 🔧 Technologies & Tools 
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"></code>
@@ -47,30 +47,11 @@ me.say_hi()
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
-## HACKATHONS
-<div>
-    <a href="https://github.com/Hui-Hwoo/GIF-Creator" style="text-decoration: none;">
-       <h3 style="color: blue;"> 🦋 GIF-Creator </h3>
-    </a>
-</div>
-
-<div>
-    <a href="https://github.com/ethdegen/hackathon-2022-10-apiworld" style="text-decoration: none;">
-       <h3> 💾 Social Network Decentralizer (Best Integration) </h3>
-    </a>
-</div>
-
-<div>
-    <a href="https://github.com/Hui-Hwoo/DSCNU_FHSYZ" style="text-decoration: none;">
-       <h3 style="color: red;"> 🚨 Alert </h3>
-    </a>
-</div>
-
-<div>
-    <a href="https://github.com/ShaneTsui/acc_sf_backend" style="text-decoration: none;">
-       <h3 style="color: green;"> 🚓 SNAP </h3>
-    </a>
-</div>
+### HACKATHONS
+- [🦋 GIF-Creator](https://github.com/Hui-Hwoo/GIF-Creator)
+- [💾 Social Network Decentralizer (Best Integration)](https://github.com/ethdegen/hackathon-2022-10-apiworld)
+- [🚨 Alert](https://github.com/Hui-Hwoo/DSCNU_FHSYZ)
+- [🚓 SNAP](https://github.com/ShaneTsui/acc_sf_backend)
 
 
 
